@@ -25,7 +25,7 @@ $(document).ready(function () {
         $("#display").append(`<p> ${person.name} </p>`)
         $("p").addClass("btn btn-secondary d-flex flex-column")
         form.reset()
-        $("p").click(function () {
+        $("p").last().click(function () {
             $("#contactDetails").html(`
                         <p> ${contactAddress}</p>
                         <p> ${contactAddress2}</p>
