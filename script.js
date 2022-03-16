@@ -26,7 +26,7 @@ $(document).ready(function () {
         $("p").addClass("btn btn-secondary d-flex flex-column")
         form.reset()
         $("p").click(function () {
-            $("#contactDetails").append(`
+            $("#contactDetails").html(`
                         <p> ${contactAddress}</p>
                         <p> ${contactAddress2}</p>
                         <p> ${contactCity}</p>

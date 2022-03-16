@@ -7,10 +7,8 @@ Michelle Njeri
 ### Shows your contact details 
 Enter your conatin details in the inputs 
 
-### Bug 
-Displays all contact details when the preceding contact name is clicked
 
-# Technologies
+###  Technologies
 * Bootstrap
 * CSS
 * JS 
