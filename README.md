@@ -1,9 +1,13 @@
-# modern-address-book
+### Project Name
+Modern Address Book 
 
-# Shows your contact details 
+### Author
+Michelle Njeri
+
+### Shows your contact details 
 Enter your conatin details in the inputs 
 
-# Bug 
+### Bug 
 Displays all contact details when the preceding contact name is clicked
 
 # Technologies
@@ -13,10 +17,10 @@ Displays all contact details when the preceding contact name is clicked
 * Jquery
 * Html
 
-For collaboration
+### For collaboration
 [Email Me](mailto:vantablanta@gamil.com)
 
-Licence
+### Licence
 [Refer Here](https://github.com/vantablanta/modern-address-book/blob/master/LICENSE)
 
 
